@@ -1,4 +1,3 @@
-# Jeremiah_Papa_Madgex_SoftwareDeveloper_Interview
 
 Task: Increment a version number in a file.
 A project has a file (see attached) which describes the version number of an
@@ -15,4 +14,4 @@ above, and saves it back to the file.
 Instructions: Solution should show good coding practices, be written in C# and include unit
 tests.
 
-Console Application that manages release versions. Some of the concepts I have used are (TDD,SOLID,Clean Architecture,IOC). I have used .Net 7
+
